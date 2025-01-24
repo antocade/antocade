@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 4th year Computer Science student.<br>💻 Currently enhancing my full-stack development skills by exploring different frameworks.<br>🤖 Passionate about automation, especially in the realm of diabetes blood sugar management.<br>💡  Ask me about: My latest projects, full-stack development, or how I use tech to solve real-world problems.<br>🚀 Always eager to learn, build, and improve!
+🎓 Recent Computer Science graduate.<br>💻 Currently enhancing my full-stack development skills by exploring different frameworks.<br>🤖 Passionate about automation, especially in the realm of diabetes blood sugar management.<br>💡  Ask me about: My latest projects, full-stack development, or how I use tech to solve real-world problems.<br>🚀 Always eager to learn, build, and improve!
 
 
 ## 🌐 Socials:
